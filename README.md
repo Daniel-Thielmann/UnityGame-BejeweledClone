@@ -63,6 +63,6 @@ Este projeto foi desenvolvido como parte do Trabalho E da disciplina **Desenvolv
 
 ## 📌 Créditos
 
-**Desenvolvido por:** Daniel Alves  
-**Professor:** [Nome do professor]  
-**Curso:** Análise e Desenvolvimento de Sistemas - UFJF  
+**Desenvolvido por:** Daniel Alves Thielmann  
+**Professor:** [Marcelo Caniato]  
+**Curso:** Engenharia Computacional - UFJF  
